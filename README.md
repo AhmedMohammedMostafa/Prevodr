@@ -17,17 +17,12 @@ Prevodr is a 🎨 creative design agency 🖥️ specializing in crafting beauti
 ### Usage Notice
 This website is built using proprietary technologies and designs. You may not use the source code or any features without contacting us for permission first.
 
-### Contributing
-We welcome contributions from the community! Whether it's fixing a bug, enhancing existing features, or suggesting new ideas, your input is valuable. Please refer to our 📝 [Contributing Guidelines](link-to-contributing-guidelines) for more information.
-
 ### Feedback
-We'd love to hear your feedback! If you encounter any issues, have suggestions for improvement, or just want to say hello, please open an issue or reach out to us directly at 📧 [contact@example.com].
+We'd love to hear your feedback! If you encounter any issues, have suggestions for improvement, or just want to say hello, please open an issue or reach out to us directly at 📧 [prevodr@ahmeddvlpr.me].
 
-### License
-This project is licensed under the 📄 [License Name, e.g., MIT License]. See the [LICENSE](link-to-license-file) file for details.
 
 ### Get in Touch
-- Website: [https://prevodr.ahmeddvplr.com]
+- Website: [https://prevodr.ahmeddvplr.me]
 - Email: [prevodr@ahmeddvlpr.me]
 - Instagram: [@Prevodr]
 
